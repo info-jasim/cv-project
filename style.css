@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    background: #b3b6b7;
+    font: normal normal 700 16px/1.0 "Nanum Gothic", sans-serif;
+}
+#contain{
+    max-width: 90%;
+    margin: 0 auto;
+    height: auto;
+    padding: 20px;
+    background: #0e6251;
+}
+#profilepic{
+    width: 120px;
+    height: 120px;
+    border: 3px solid #ecf0f1;
+    border-radius: 50%;
+   float: left; 
+}
+#header-bio{
+    float: left;
+    padding: 20px;
+}
+#header-bio h1,h5{
+    text-transform: capitalize;
+    color: #d0d3d4;
+}
+.clo{
+    clear: both;
+}
+hr{
+    border: 3px solid #f1c40f;
+    width: 100%;
+    margin: 25px 0;
+    border-bottom: none;
+}
+#header-contac{
+    float: right;
+    padding: 10px;
+}
+#header-contac a{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-weight: bold;
+    color: #ecf0f1;
+    padding: 2px;
+}
+.left-personal{
+    width: 30%;
+    float: left;
+    
+}
+.right-personal{
+    width: 70%;
+    float: right;
+    font: normal small-caps 400 16px/1.2 "Nanum Gothic", sans-serif;
+}
+#personal-contai{
+    text-transform: capitalize;
+    color: #ecf0f1;
+}
+#common-hr{
+     border: 3px solid #f1c40f;
+    width: 100%;
+    margin: 25px 0;
+    border-bottom: none; 
+}
+#work-left{
+    width: 30%;
+    float: left
+}
+#work-right{
+    width: 70%;
+    float: right;
+    
+}
+#work-experience{
+    color: #ecf0f1;
+     font: normal small-caps 400 16px/1.2 "Nanum Gothic", sans-serif;
+}
+#education{
+    color: #ecf0f1;
+    text-transform: capitalize;
+}
+#education-left{
+    width: 30%;
+    float: left;
+}
+#education-right{
+    width: 70%;
+    float: right;
+     font: normal small-caps 400 16px/1.2 "Nanum Gothic", sans-serif;
+    margin-top: none;
+}
+#honor{
+    color: #f0f3f4;
+    text-transform: capitalize;
+}
+#honor-left{
+     width: 30%;
+    float: left;
+}
+#honor-right{
+  width: 70%;
+  float: right;
+  font: normal small-caps 400 16px/1.2 "Nanum Gothic", sans-serif;
+}
+#refarence{
+    text-transform: capitalize;
+    color:  #f0f3f4;;
+}
+#refarance-left{
+    width: 30%;
+    float: left;
+}
+#refarence-right{
+    width: 70%;
+    float: right;
+    padding: 10px;
+     font: normal small-caps 400 16px/1.2 "Nanum Gothic", sans-serif;
+}
+#footer-con{
+    background: #000;
+    text-transform: capitalize;
+    color: #f0f3f4;
+
+}
+#footer-body{
+    padding: 15px;
+    width: 40%;
+    height: 50px;
+    margin: 0 auto;
+}
+#footer-link{
+     font: normal small-caps bold 1rem/1.5 "Nanum Gothic", sans-serif;
+}
+#footer-link a {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 2px;
+}
+#footer-adds{
+    padding: 6px;
+}
