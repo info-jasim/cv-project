@@ -1,2 +1,2 @@
 # cv-project
-cv
+https://info-jasim.github.io/cv-project/
